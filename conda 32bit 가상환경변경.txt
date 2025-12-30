@@ -1,0 +1,2 @@
+& "C:\ProgramData\Anaconda3\shell\condabin\conda-hook.ps1"
+conda activate sample_project_env
